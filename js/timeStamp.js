@@ -42,9 +42,5 @@ function getNewTimesTamp() {
 
   result += leftPad(now.getMilliseconds(), 3);
 
-
-
-
-
   return result;
 }
